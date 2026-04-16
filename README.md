@@ -27,11 +27,6 @@ The goal of this project is to showcase QA practices for Register, Login, Forgot
 │   ├── cart-execution.md
 │   └── README.md
 │
-├── execution-results/       # Test execution sheets
-│   ├── forgot-password-execution.md
-│   ├── cart-execution.md
-│   └── README.md
-│
 ├── bug-reports/             # Bug reports
 │   ├── cart-bug-report.md
 │   ├── register-bug-report.md
